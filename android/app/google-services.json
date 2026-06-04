@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579635449675",
+    "project_id": "testvideo-88882",
+    "storage_bucket": "testvideo-88882.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579635449675:android:0bf68714936e07511fe2ce",
+        "android_client_info": {
+          "package_name": "com.example.tracker_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgcax9LTDbiTYqslGi6spDGD49we6T2Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
